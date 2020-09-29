@@ -1,0 +1,5 @@
+Codeception PHP Testing Framework v4.1.7
+Powered by PHPUnit 8.5.8 by Sebastian Bergmann and contributors.
+Running with seed: 
+
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? 

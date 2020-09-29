@@ -1,0 +1,21 @@
+paths:
+    tests: tests
+    output: tests/_output
+    data: tests/_data
+    support: tests/_support
+    envs: tests/_envs
+actor_suffix: Tester
+extensions:
+    enabled:
+        - Codeception\Extension\RunFailed
+params:
+    - env
+    - tests/_config/params.php
+settings:
+    backup_globals: false
+    colors: true
+#coverage:
+#    enabled: true
+#    low_limit: 20
+#    high_limit: 60
+#    show_only_summary: true

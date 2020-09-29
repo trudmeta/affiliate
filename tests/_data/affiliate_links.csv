@@ -1,0 +1,4 @@
+title,categories,_affiliate_links_target,_affiliate_links_description,_affiliate_links_iframe,_affiliate_links_nofollow,_affiliate_links_redirect,_embedded_add_rel,_embedded_add_target,_embedded_add_link_title,_embedded_add_link_class,_embedded_add_link_anchor,_additional_target_url_0,_additional_target_url_0_name,_additional_target_url_0_cond,_additional_target_url_0_value
+link1,11;12,https://google.com,"test link",,1,302,,,,test,,,,,
+link2,12,https://wp-kama.ru/,,,,301,,,,,,https://wp-kama.ru/,lang,1,de
+link3,,https://wp-kama.ru/function/wpdb#get_row,,,1,307,,,,,,,,,

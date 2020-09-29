@@ -1,0 +1,7 @@
+{
+    "name": "trudm/philharmonia",
+    "require": {
+        "htmlburger/carbon-fields": "^3.1"
+    },
+    "require-dev": {}
+}
